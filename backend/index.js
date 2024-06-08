@@ -90,3 +90,7 @@ const PORT = process.env.PORT || 3001
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`)
 })
+
+
+
+// mongodb+srv://elganmathias1:pw7oFr3niALttynS@cluster0.9jfypdk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
